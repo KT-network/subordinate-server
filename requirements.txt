@@ -1,0 +1,5 @@
+sqlalchemy
+paho-mqtt
+mysqlclient
+//pymysql
+//mysqlclient
